@@ -1,0 +1,6 @@
+John Doe,1234567890,john@example.com
+Alice Smith,9949481753,alice@example.com
+Bob Johnson,1112223333,bob@g.com
+Carol White,4445556666,carol@company.com
+David Brown,7778889999,david@example.com
+Sankar,9505026931,sankar123@gmail.com
